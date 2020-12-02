@@ -1,6 +1,6 @@
 # Flappy Nyan Cat played by NEAT
 
-[Demo](demo.gif)
+![Demo](demo.gif)
 
 This is a "nyan cat" themed "flappy bird" game played by an genetic algorithm, called [Neat](https://en.wikipedia.org/wiki/Neuroevolution_of_augmenting_topologies) (Neuro Evolution with Augmenting Topologies). I was inspired by an [amazing youtube video](https://www.youtube.com/watch?v=qv6UVOQ0F44) by Seth Bling where he used the algorithm to learn to play mario. 
 
