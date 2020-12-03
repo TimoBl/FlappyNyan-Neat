@@ -24,7 +24,7 @@ class Game {
 		this.drawing = new NetworkDrawing(this.width/2, 0, this.width/2, this.height/4, this.ctx)
 
 		this.backgroundImage = new Image()
-		this.backgroundImage.src = "background.png"
+		this.backgroundImage.src = "assets/background.png"
 	}
 
 	newGame(){

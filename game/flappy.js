@@ -11,7 +11,7 @@ class Bird {
 		this.network = network
 		this.alive = true
 		this.image = new Image()
-		this.image.src = "nyancat.png"
+		this.image.src = "assets/nyancat.png"
 		//this.vx = 0
 		this.trail = []
 		this.trailHeightColor = 10
@@ -117,10 +117,10 @@ class PipePair {
 		this.height = height
 
 		this.pipeTopImage = new Image()
-		this.pipeTopImage.src = "pipeTop.png" //120x1600
+		this.pipeTopImage.src = "assets/pipeTop.png" //120x1600
 
 		this.pipeBottomImage = new Image()
-		this.pipeBottomImage.src = "pipeBottom.png"  //120x1600
+		this.pipeBottomImage.src = "assets/pipeBottom.png"  //120x1600
 	}
 
 	doesCollid(bird){
